@@ -1,0 +1,15 @@
+{
+  "UTC Time": "[05/16/2024 18:29:37]",
+  "Experiment Time": 50025600,
+  "Sensed Acceleration Magnitude": 21,
+  "Sensed Acceleration": [
+    { "x": 0.9},
+    { "y": 0.8},
+    { "z": 0.7}
+  ],
+  "Velocity": [
+    { "up": 1.9},
+    { "east": 1.8},
+    { "north": 1.7}
+  ]
+}
